@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jidneshmeher&label=Profile%20views&color=0e75b6&style=flat" alt="jidneshmeher" /> </p>
 
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Full-stack development.**
 
-- 🌱 I’m currently learning **Web Development**
+<!-- - 🌱 I’m currently learning **Web Development** -->
 
 - 💬 Ask me about **MERN, Python, Java**
 
