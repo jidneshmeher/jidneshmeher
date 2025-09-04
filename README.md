@@ -45,8 +45,7 @@ I'm a Full Stack Developer passionate about building **responsive, scalable web 
 
 | [![ShopEase](./assets/shopease.png)](https://github.com/jidneshmeher/ShopEase) | [![FeedbackHub](./assets/feedbackhub.png)](https://github.com/jidneshmeher/FeedbackHub) | [![ClockCraft](./assets/clockcraft.png)](https://github.com/jidneshmeher/ClockCraft) |
 |:--:|:--:|:--:|
-| **[ShopEase](https://github.com/jidneshmeher/ShopEase)** <br> 🛒 Full-stack e-commerce app with product filtering, cart, checkout, and Razorpay payments.| **[FeedbackHub](https://github.com/jidneshmeher/FeedbackHub)** <br> 💬 Real-time feedback system with Firebase + React + Express. Includes role-based access. | **[ClockCraft](https://github.com/jidneshmeher/ClockCraft)** <br> ⏰ Web app with world clock, timer, alarm, and stopwatch using React + APIs. |
-
+| **[ShopEase](https://github.com/jidneshmeher/ShopEase)** <br> 🛒 Full-stack e-commerce app with product filtering, cart, checkout, and Razorpay payments.| **[FeedbackHub](https://github.com/jidneshmeher/FeedbackHub)** <br> 💬 Real-time feedback system with React + Express + PostgreSQL. Includes role-based access. | **[ClockCraft](https://github.com/jidneshmeher/ClockCraft)** <br> ⏰ Web app with digital clock, world clock, timer, and stopwatch using React + Rest APIs. |
 
 ---
 
