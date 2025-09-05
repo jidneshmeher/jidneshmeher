@@ -45,14 +45,14 @@ Full Stack Developer specializing in the **MERN stack** with a passion for build
 
 | [![ShopEase](./assets/shopease.png)](https://github.com/jidneshmeher/ShopEase) | [![FeedbackHub](./assets/feedbackhub.png)](https://github.com/jidneshmeher/FeedbackHub) | [![ClockCraft](./assets/clockcraft.png)](https://github.com/jidneshmeher/ClockCraft) |
 |:--:|:--:|:--:|
-| **[ShopEase](https://github.com/jidneshmeher/ShopEase)** <br> 🛒 Full-stack e-commerce app with product filtering, cart, checkout, and Razorpay payments.| **[FeedbackHub](https://github.com/jidneshmeher/FeedbackHub)** <br> 💬 Real-time feedback system with React + Express + PostgreSQL. Includes role-based access. | **[ClockCraft](https://github.com/jidneshmeher/ClockCraft)** <br> ⏰ Web app with digital clock, world clock, timer, and stopwatch using React + Rest APIs. |
+| **[ShopEase](https://github.com/jidneshmeher/ShopEase)** | **[FeedbackHub](https://github.com/jidneshmeher/FeedbackHub)**  | **[ClockCraft](https://github.com/jidneshmeher/ClockCraft)** |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jidneshmeher&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidneshmeher&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jidneshmeher&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidneshmeher&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="200"/>
 </p>
 
 ---
