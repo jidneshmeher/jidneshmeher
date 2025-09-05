@@ -3,7 +3,7 @@
 
 
 ## 💼 **About Me**
-I'm a Full Stack Developer passionate about building **responsive, scalable web applications**. Skilled in **React, Node.js, Express, MongoDB, SQL**, and constantly exploring **AI integrations** and new technologies. I enjoy solving problems, improving user experiences, and bringing ideas to life.
+Full Stack Developer specializing in the **MERN stack** with a passion for building scalable, user-friendly web apps. Always eager to learn, innovate, and explore **new technologies**.
 
 ---
 
